@@ -1,1 +1,1 @@
-# elinkk
+# gomekanik
